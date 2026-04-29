@@ -21,7 +21,7 @@ This is a web-based management system for topographic surveying works (or simila
 1. Clone the repository:
    ```
    git clone https://github.com/Dan1e1B/Topo-Management-System.git
-   cd yourrepo
+   cd "Topo-Management-System"
    ```
 
 2. Install Python dependencies:
